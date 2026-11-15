@@ -62,3 +62,5 @@ Sistem, harici bir sunucuya veya Dünya ile iletişime ihtiyaç duymadan **düş
          │
          ▼
 [ ADIM 03: Otomatik İzolasyon ] ──► Kritik eşikte kabin oksijen/gaz akışı ve havalandırma anında kesilir.[cite: 12]
+
+WebSite: https://nasaaeroshield.netlify.app/
